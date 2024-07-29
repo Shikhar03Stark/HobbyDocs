@@ -5,6 +5,6 @@
 
 > Documenting my chain of thought, from experiments, Proof-Of-Concepts, Ideas and lot more!
 
-!> Scroll Down ⇓
+> Scroll Down ⇓
 
 [LinkedIn](https://www.linkedin.com/in/harshit-vishwakarma-2001/)
