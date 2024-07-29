@@ -1,4 +1,4 @@
-# My Docs of Thought 
+# My Doc of Thoughts
 
 ## What?
 

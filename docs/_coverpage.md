@@ -1,7 +1,7 @@
 
 ![logo](/_images/brand/logo192x192.png)
 
-# My Docs of Thought
+# My Doc of Thoughts
 
 > Documenting my chain of thought, from experiments, Proof-Of-Concepts, Ideas and lot more!
 
