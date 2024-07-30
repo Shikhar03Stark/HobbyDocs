@@ -16,4 +16,4 @@ I'm Harshit Vishwakarma, a Software Engineer. I like exploring things from the g
 
 We can connect on
  - [Linkedin](https://www.linkedin.com/in/harshit-vishwakarma-2001)
- - [Github](https://wwww.github.com/Shikhar03Stark)
+ - [Github](https://www.github.com/Shikhar03Stark)
